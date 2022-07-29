@@ -1,2 +1,2 @@
 # Readit
-Reddit Clone
+Reddit Clone build using postgres, node, typescript, nextjs, tailwind and typeORM.
